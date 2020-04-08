@@ -1,0 +1,684 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.262400)
+
+newmtl enduit_004_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl bois_061_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd bois_061.jpg
+
+newmtl carrelage_048_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd carrelage_048.jpg
+
+newmtl blanc_001
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl enduit_066
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_066.jpg
+
+newmtl metal_012
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd metal_012.jpg
+
+newmtl gris_003
+Kd 0.800000011920929 0.7960784435272217 0.7764706015586853
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl 20191227-121735-cst_ovcol868686colpic12contpic00
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20191227-121735-cst.jpg
+
+newmtl cuisine_rangement_002___blancbouteille
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl cuisine_rangement_002___rougebouteille
+Kd 0.4862749874591827 0.09019599854946136 0.1450980007648468
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl cuisine_rangement_002___verrevert
+Kd 0.2509799897670746 0.4980390071868896 0.07843100279569626
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl cuisine_rangement_002___tablevernis
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl kitchen_classic_style_dishwasher_000___phong5sg
+Kd 0.7607839703559875 0.7607839703559875 0.7607839703559875
+Ks 0.5 0.5 0.5
+d 1
+Ns 1
+illum 2
+
+newmtl kitchen_classic_style_dishwasher_000___phong9sg
+Kd 1 1 1
+Ks 0.25 0.25 0.25
+d 1
+Ns 1
+illum 2
+map_Kd dishwasher_siemens_000.jpg
+
+newmtl kitchen_classic_style_wall_cabinet_006___lambert2sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd dark_birch_000.jpg
+
+newmtl kitchen_classic_style_base_cabinet_oven_003___lambert3sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd display_000.jpg
+
+newmtl kitchen_classic_style_base_cabinet_oven_003___lambert8sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd oven_007.jpg
+
+newmtl kitchen_classic_style_base_cabinet_oven_003___phong4sg
+Kd 1 1 1
+Ks 0.07999999821186066 0.07999999821186066 0.07999999821186066
+d 1
+Ns 1
+illum 2
+map_Kd stainless__brushed_000.jpg
+
+newmtl kitchen_classic_style_base_cabinet_oven_003___phong5sg
+Kd 0.7607839703559875 0.7607839703559875 0.7607839703559875
+Ks 0.5 0.5 0.5
+d 1
+Ns 1
+illum 2
+
+newmtl kitchen_classic_style_base_cabinet_oven_003___phong7sg
+Kd 0.137254998087883 0.137254998087883 0.137254998087883
+Ks 0.05000000074505806 0.05000000074505806 0.05000000074505806
+d 1
+Ns 1
+illum 2
+
+newmtl kitchen_classic_style_base_cabinet_oven_003___vitre
+Kd 0.9960780143737793 0.9960780143737793 0.9960780143737793
+Ks 0.009999999776482582 0.009999999776482582 0.009999999776482582
+d 0.3019610047340393
+Ns 1
+illum 2
+
+newmtl pack_002_cuis_hotte___hotte
+Kd 0.5843139886856079 0.5843139886856079 0.5843139886856079
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bois_040
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd bois_040.jpg
+
+newmtl beige_001
+Kd 0.729411780834198 0.7058823704719543 0.6196078658103943
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl poubelle_001___phong1sg
+Kd 0.5843139886856079 0.5843139886856079 0.5843139886856079
+Ks 1 1 1
+d 1
+Ns 0.01999999955296516
+illum 2
+
+newmtl cuir_009
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd cuir_009.jpg
+
+newmtl tabouret_007___mat_metalbasique005sg
+Kd 0.009999999776482582 0.009999999776482582 0.009999999776482582
+Ks 0.25 0.25 0.25
+d 1
+Ns 1
+illum 2
+
+newmtl set_001_meuble_tv___metal_pieds
+Kd 0.4235289990901947 0.4235289990901947 0.4235289990901947
+Ks 0 0 0
+d 1
+Ns 0.699999988079071
+illum 2
+
+newmtl gris_006
+Kd 0.1333333402872086 0.1372549086809158 0.1568627506494522
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl set_001_meuble_tv___plastic_tv
+Kd 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl tex_alu2
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd tex_alu2.jpg
+
+newmtl marron_004
+Kd 0.7647058963775635 0.7686274647712708 0.7372549176216125
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl 20191227-123137-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20191227-123137-cst.jpg
+
+newmtl fenetre_041______mat_1sg2
+Kd 0.9960780143737793 0.9960780143737793 0.9960780143737793
+Ks 0 0 0
+d 0.3019610047340393
+illum 1
+
+newmtl noir_001
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl fenetre_041_____mat_metalbasique001sg1
+Kd 0.1099999994039536 0.1099999994039536 0.1099999994039536
+Ks 0.5 0.5 0.5
+d 1
+Ns 1.482202053070068
+illum 2
+
+newmtl beige_006
+Kd 0.9098039269447327 0.9098039269447327 0.8784313797950745
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl set_001_canape___metal_pieds
+Kd 0.4235289990901947 0.4235289990901947 0.4235289990901947
+Ks 0 0 0
+d 1
+Ns 0.699999988079071
+illum 2
+
+newmtl tissus_078
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd tissus_078.jpg
+
+newmtl tissus_060
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd tissus_060.jpg
+
+newmtl gris_005
+Kd 0.9372549057006836 0.9333333373069763 0.9137254953384399
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl rangement_011___mat_metalbasique005sg
+Kd 0.01999999955296516 0.01999999955296516 0.01999999955296516
+Ks 0.2099999934434891 0.2099999934434891 0.2099999934434891
+d 1
+Ns 1
+illum 2
+
+newmtl armoire_008____etagere_011phong1sg
+Kd 0.1500000059604645 0.1500000059604645 0.1500000059604645
+Ks 0.1700000017881393 0.1700000017881393 0.1700000017881393
+d 1
+Ns 1
+illum 2
+
+newmtl commode_004___mat_metalbasique003sg
+Kd 0.1500000059604645 0.1500000059604645 0.1500000059604645
+Ks 0.1299999952316284 0.1299999952316284 0.1299999952316284
+d 1
+Ns 1
+illum 2
+
+newmtl osier_001
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd osier_001.jpg
+
+newmtl ficus___ficus_feuilles
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd texture_ficus.jpg
+
+newmtl orange_001
+Kd 0.6941176652908325 0.3450980484485626 0.2274509817361832
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl ficus___ficus_terreau
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_terreau.jpg
+
+newmtl gardenia___gardenia_bois
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_marron_002.jpg
+
+newmtl gardenia___gardenia_gardenia
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd texture_gardenia.jpg
+
+newmtl gardenia___gardenia_terreau
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl gardenia___phong1sg
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+d 1
+illum 1
+map_Kd tex_terreau.jpg
+
+newmtl drap_blancs
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd drap_blancs.jpg
+
+newmtl bois_093
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd bois_093.jpg
+
+newmtl rangement_012___mat_metalbasique005sg
+Kd 0.01999999955296516 0.01999999955296516 0.01999999955296516
+Ks 0.2099999934434891 0.2099999934434891 0.2099999934434891
+d 1
+Ns 1
+illum 2
+
+newmtl porte_019____mat_metalbasique001sg
+Kd 0.2899999916553497 0.2899999916553497 0.2899999916553497
+Ks 0.5 0.5 0.5
+d 1
+Ns 1.482202053070068
+illum 2
+
+newmtl fenetre_041______mat_metalbasique004sg1
+Kd 0.009999999776482582 0 0
+Ks 0.5 0.5 0.5
+d 1
+Ns 1.482202053070068
+illum 2
+
+newmtl 20200101-14620-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-14620-cst.jpg
+
+newmtl 20200101-14948-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-14948-cst.jpg
+
+newmtl pack_005_bureau_002_plante___nopaint_feuilles
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_plante.jpg
+
+newmtl pack_005_bureau_002_plante___nopaint_tronc
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_plante.jpg
+
+newmtl pack_005_bureau_002_plante___terreau
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_terreau.jpg
+
+newmtl pack_005_bureau_002_plante___tiges
+Kd 0.4039219915866852 0.5372549891471863 0.2470590025186539
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_005_salle_a_manger_plante___nopaint_plante
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_plante.jpg
+
+newmtl pack_005_salle_a_manger_plante___nopaint_terreau
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_terreau.jpg
+
+newmtl douche_003___mat_douche_003_douche
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl carrelage_053_ovcol868686colpic12contpic00
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd carrelage_053.jpg
+
+newmtl douche_003___mat_douche_003_metal
+Kd 0.4235289990901947 0.4235289990901947 0.4235289990901947
+Ks 0 0 0
+d 1
+Ns 0.699999988079071
+illum 2
+
+newmtl douche_003___mat_douche_003_vitre
+Kd 1 1 1
+Ks 0 0 0
+d 0.3490200042724609
+illum 1
+
+newmtl pack_002_sdb_toilettes___01___defaulta
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_002_sdb_toilettes___01___defaulte
+Kd 0.4235289990901947 0.4235289990901947 0.4235289990901947
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl lavabo_002___lavabo
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl placard_sdb_001___placard_sdb_001_blinn3sg
+Kd 0.4235289990901947 0.4235289990901947 0.4235289990901947
+Ks 0.75 0.75 0.75
+d 1
+illum 1
+
+newmtl meuble_a_miroir_portes___meuble_a_miroir_metal
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.5
+illum 2
+map_Kd mirror.nocompress.png
+
+newmtl 20191227-13934-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20191227-13934-cst.jpg
+
+newmtl 20200101-15755-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-15755-cst.jpg
+
+newmtl 20200101-15658-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-15658-cst.jpg
+
+newmtl 20200101-15118-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-15118-cst.jpg
+
+newmtl 20200101-1490-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-1490-cst.jpg
+
+newmtl pack_004_salon_002_tableau___enduit1
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+d 1
+illum 1
+
+newmtl 20200101-14757-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-14757-cst.jpg
+
+newmtl 20200101-15036-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-15036-cst.jpg
+
+newmtl 20200101-15558-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-15558-cst.jpg
+
+newmtl 20200101-15446-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-15446-cst.jpg
+
+newmtl 20200101-15328-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-15328-cst.jpg
+
+newmtl 20200101-15923-cst
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20200101-15923-cst.jpg
+
+newmtl miroir_013___mat_bois097sg2
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_097.jpg
+
+newmtl miroir_013___mat_miroirsg
+Kd 1 1 1
+Ks 0.3400000035762787 0.3400000035762787 0.3400000035762787
+d 1
+Ns 1
+illum 2
+map_Kd mirror.nocompress.png
+
+newmtl alu
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd alu.jpg
+
+newmtl metal_004
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd metal_004.jpg
+
+newmtl texture_eau_piscine_ovcol868686colpic12contpic00
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd texture_eau_piscine.pngmap_d texture_eau_piscine.png
+
+
+newmtl 20191227-154150-cst_ovcol868686colpic12contpic00_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20191227-154150-cst.jpg
+
+newmtl enduit_004_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl brique_008_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd brique_008.jpg
+
+newmtl blanc_001_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl carrelage_053_ovcol868686colpic12contpic00_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd carrelage_053.jpg
+
